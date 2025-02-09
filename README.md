@@ -7,6 +7,8 @@ Depoly-->New Depolyment--> Web App--Line--> JavaScripts Add
 
 ![55555555](https://github.com/user-attachments/assets/5f1009de-df13-414c-a83d-cb49030d088d)
 
+Template
+
 ![222222](https://github.com/user-attachments/assets/b4be63b0-a5db-4e94-ac1d-822a6af24763)
 
 ![3333333333](https://github.com/user-attachments/assets/b18d0f09-bc70-4028-9192-b340b3fadce7)
